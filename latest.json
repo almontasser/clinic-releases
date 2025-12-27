@@ -5,11 +5,11 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRGVKSzhBbU1rTDFPMkQzdlNCRUxHNkV2ZW9SOU05VW5PQXpCTU43dUduR1pCeFZvZjM2c2pkUFdwdHVoQk54bzlHNnZpOUNPTFFwNXQxWklUQk9vKzRCdXhxMkZnekFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2ODczNjMxCWZpbGU6Y2xpbmljXzAuNy41X3g2NC1zZXR1cC5leGUKeStia0d1UVFKTHZCVytwV3VMSll3NEVyTFJNVTQ4aVFmVEUxUWZsSU1OSHZ3ZUpmZy9Qc3paMVFEU1FkM0VrSGMwWURKdHdpQnlCQ0pYbWdzUkxCREE9PQo=dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRGVKSzhBbU1rTDF3M2hCV29wZExldG53WVorL2FZUmoyVnlFSVRsRDJGaG9CR2dYQmxoSURkSnROd2pBMWZLSlJGbytQMG1TdnVDNGMwVWZMN25nc2JHQjhlc1lwYUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2ODczNjMxCWZpbGU6Y2xpbmljXzAuNy41X3g2NF9lbi1VUy5tc2kKRVc4R0Y4VEJGY3YzTmJBOVhqWjd3aXZLUWNxWFdIM1hTTS9ZS1R0K014TmhmWlkwUjZqWEd3VjIvTWF4RGkwQTkzYVo5OUNhZ0ZheGJ4eVdaTHk3RFE9PQo=",
-      "url": "https://github.com/almontasser/clinic-releases/releases/download/v0.7.5/clinic_-0.7.5_x64_en-US.msi"
+      "url": "https://github.com/almontasser/clinic-releases/releases/download/v0.7.5/clinic_0.7.5_x64_en-US.msi"
     },
     "windows-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRGVKSzhBbU1rTDUzREFaN0xuMmoyU21QaGdYdWFMc3hmVWFDQXhCOUlkYmE0S3lVdnJ5R1d2SGs4RDQ5dTRLdFpCanpUM0xMT2tqRm5IYndaSUpabm55b1VJam4wV1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2ODczNzI5CWZpbGU6Y2xpbmljXzAuNy41X2FybTY0LXNldHVwLmV4ZQpsUEwxYThNZDVYMGk2UEgrK1lhbHh0Q1BiS2RPTW5UR1BEU1lNdTZEZ016dFV3aDFEVU5WVGlua1JaZzYxTGFEMmxMT3FZeUROdms4NytNMWxtWGJEUT09Cg==dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRGVKSzhBbU1rTDNDWjVabVBnR083UXMyNnkvUmdBSnk3NUo4SGpVR25CaEx0YWV1UlQ5L1NOUmx2TFRGS3o1Y2JKMGZFb0RDZmttRGxGcm1JMXA0ajVwWU94aWk4akF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2ODczNzI5CWZpbGU6Y2xpbmljXzAuNy41X2FybTY0X2VuLVVTLm1zaQpneEx0a0ErclhOdDRnaHRid3d1OFFFQW5CSWl2aTd0YlFTTDA2RVBXcHRjcXNWM0tieU15eUVTbFkyUTV3R3lDNVBvTWl4NndIUDVtYnNoRFFMYWtEQT09Cg==",
-      "url": "https://github.com/almontasser/clinic-releases/releases/download/v0.7.5/clinic_-0.7.5_arm64_en-US.msi"
+      "url": "https://github.com/almontasser/clinic-releases/releases/download/v0.7.5/clinic_0.7.5_arm64_en-US.msi"
     }
   }
 }
