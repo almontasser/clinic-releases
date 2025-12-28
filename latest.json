@@ -1,11 +1,15 @@
 {
-  "version": "0.7.7",
-  "notes": "See https://github.com/almontasser/clinic-releases/releases/tag/v0.7.7",
-  "pub_date": "2025-12-28T00:17:31Z",
+  "version": "0.7.6",
+  "notes": "See https://github.com/almontasser/clinic-releases/releases/tag/v0.7.6",
+  "pub_date": "2025-12-27T22:46:56Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRGVKSzhBbU1rTDZPU2NZVzNvbGE4UnhTVDkrQm1rb2RydE03TEFLNVJGT2lsdk5oZGM0clNFUVNsVFRkWW0vQkhyYXM1OXB2M3ZVWFRTY1NoQ2FONHI3Umlsa1BRNVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2ODgxMDM0CWZpbGU6Y2xpbmljXzAuNy43X3g2NC1zZXR1cC5leGUKSlZPcGRDUjQ2UDNuWkdmOVJLbXNkc1VqRitCaU5lQzc1bVNYZ2p5b2w4T1dtQUpYaFRiek9qRUUybU55bkVaaE5INU1tNmtmRUNQdkFtbjg2b0gxQnc9PQo=",
-      "url": "https://github.com/almontasser/clinic-releases/releases/download/v0.7.7/clinic_0.7.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRGVKSzhBbU1rTDFyalE0QTRjeEFMeFVFY3ZudUFDM3UrM2Rla3BGR2ljdzFUM0xCeDB2ci9WalZHWU5pZzlPM2pPSW43eFZxYkowZnp4M3RxU1hnSyt6ZUF3d1NDN0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2ODc1NTQxCWZpbGU6Y2xpbmljXzAuNy42X3g2NF9lbi1VUy5tc2kKNCtzdjF1NzRpdlVaUFRDWXRpbGg4WjAyM3BLcml4bDBldUVjNGdIS2FFelBXMWNnWG9iTUo1L1g3WnVQbU8vNHRtem5vY1pOSUxyQnZCSVl3NmhyRHc9PQo=",
+      "url": "https://github.com/almontasser/clinic-releases/releases/download/v0.7.6/clinic_0.7.6_x64_en-US.msi"
+    },
+    "windows-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRGVKSzhBbU1rTDBQZnBVWXc5YUNUWHk2WnEzeUFNalJJRkZ3VkllNzQ4Ujk4TGY3ZyswWGEzS2tYcEszSEQ5V2Ric3NsQlhScXBMdzJkVGV4NHhUdHF1UUdBRHdicGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2ODc1NTk0CWZpbGU6Y2xpbmljXzAuNy42X2FybTY0X2VuLVVTLm1zaQoyMTFYYklMUXRsNzRpc1FXbjZMQkZwdnBQdTlWM29nK2ZFODVHanlBT0JndlBPQ0U3NmtxWnVqd2JKeDJaOVZBNEhSR1Q0VVdwby9ieDdxQkZDWGVEZz09Cg==",
+      "url": "https://github.com/almontasser/clinic-releases/releases/download/v0.7.6/clinic_0.7.6_arm64_en-US.msi"
     }
   }
 }
